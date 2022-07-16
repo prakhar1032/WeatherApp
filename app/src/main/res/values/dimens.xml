@@ -11,7 +11,7 @@
     <dimen name="main_screen_content_padding">16dp</dimen>
     <dimen name="card_view_marginStartEnd">5dp</dimen>
     <dimen name="card_view_marginTop">16dp</dimen>
-    <dimen name="card_view_corner_radius">8dp</dimen>
+    <dimen name="card_view_corner_radius">30dp</dimen>
     <dimen name="card_view_elevation">5dp</dimen>
     <dimen name="card_view_content_padding">10dp</dimen>
     <dimen name="identification_image_size">50dp</dimen>
